@@ -1,0 +1,4 @@
+You are an AI assistant.
+Task: Answer the following question clearly.
+Question:
+{input}
